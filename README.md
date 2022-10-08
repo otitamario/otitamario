@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Markdown approach -->
-![](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" />
 
 
 
