@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Markdown approach -->
-![](https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif)
 
 
 
